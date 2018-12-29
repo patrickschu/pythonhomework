@@ -15,16 +15,18 @@ General reqs:
 
 Please try to 
 follow either the official [Python style guidelines]( https://www.python.org/dev/peps/pep-0008/)
-or the [Google Python Style guide] (https://google.github.io/styleguide/pyguide.html)
+or the [Google Python Style guide](https://google.github.io/styleguide/pyguide.html)
 
 
 ### Exercises 
 
 Use [oop.py](https://github.com/patrickschu/pythonhomework/blob/master/oop.py)
-(Instructions below are identical to what you find in oop.py)
+(Instructions below are identical to what you find in oop.py, where they are more readable)
 
 EX 1. Define a class `Book`.  
  --> Read this doc for guidance: https://docs.python.org/3/tutorial/classes.html#class-objects
+
+
 Book takes the following inputs:
 
 `file_name` (str), the name of the file the book is stored in
@@ -48,6 +50,7 @@ Implement the following two methods:
 
 
 EX 3. Use Book class
-Read the files in *book_samples.zip* into Python and create a Book object for each. 
-Test out the functions implemented above for correctness. 
 
+Read the files in *book_samples.zip* into Python and create a Book object for each. 
+
+Test out the functions implemented above for correctness. 
